@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "name": "Milk",
+      "category": "Dairy",
+      "price": 2.50,
+      "stock": 100
+    },
+    {
+      "name": "Bread",
+      "category": "Bakery",
+      "price": 1.75,
+      "stock": 150
+    },
+    {
+      "name": "Eggs",
+      "category": "Dairy",
+      "price": 3.00,
+      "stock": 120
+    },
+    {
+      "name": "Apples",
+      "category": "Fruits",
+      "price": 1.50,
+      "stock": 80
+    },
+    {
+      "name": "Bananas",
+      "category": "Fruits",
+      "price": 1.00,
+      "stock": 100
+    },
+    {
+      "name": "Rice",
+      "category": "Grains",
+      "price": 5.00,
+      "stock": 200
+    },
+    {
+      "name": "Chicken",
+      "category": "Meat",
+      "price": 7.50,
+      "stock": 50
+    },
+    {
+      "name": "Tomatoes",
+      "category": "Vegetables",
+      "price": 2.00,
+      "stock": 90
+    },
+    {
+      "name": "Potatoes",
+      "category": "Vegetables",
+      "price": 1.25,
+      "stock": 110
+    },
+    {
+      "name": "Water",
+      "category": "Beverages",
+      "price": 0.75,
+      "stock": 300
+    },
+    {
+      "name": "Cereal",
+      "category": "Breakfast",
+      "price": 4.50,
+      "stock": 70
+    },
+    {
+      "name": "Soap",
+      "category": "Personal Care",
+      "price": 2.25,
+      "stock": 120
+    },
+    {
+      "name": "Shampoo",
+      "category": "Personal Care",
+      "price": 3.75,
+      "stock": 100
+    },
+    {
+      "name": "Toothpaste",
+      "category": "Personal Care",
+      "price": 1.50,
+      "stock": 80
+    },
+    {
+      "name": "Pasta",
+      "category": "Pantry",
+      "price": 2.00,
+      "stock": 150
+    },
+    {
+      "name": "Coffee",
+      "category": "Beverages",
+      "price": 6.00,
+      "stock": 90
+    },
+    {
+      "name": "Tea",
+      "category": "Beverages",
+      "price": 4.00,
+      "stock": 120
+    },
+    {
+      "name": "Yogurt",
+      "category": "Dairy",
+      "price": 1.50,
+      "stock": 100
+    },
+    {
+      "name": "Chocolate",
+      "category": "Sweets",
+      "price": 3.50,
+      "stock": 80
+    },
+    {
+      "name": "Snacks",
+      "category": "Pantry",
+      "price": 2.50,
+      "stock": 200
+    }
+  ]
+}
